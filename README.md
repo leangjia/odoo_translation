@@ -32,7 +32,7 @@ bundle目录，包含
 
 ### 覆盖po文件
 
-*addons目录，和openerp目录包含了常用的i18n 中文翻译包，可以直接直接覆盖系自带的翻译*
+*addons目录，和openerp目录包含了常用的i18n 中文翻译包，可以直接直接覆盖系统自带的翻译*
 
 使用 build/addons 目录 覆盖 odoo/addons目录
 
