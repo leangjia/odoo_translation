@@ -13,6 +13,14 @@ TOC
 
 <!-- /MarkdownTOC -->
 
+<block round box column third>
+==== 第一步：Fork Github上的语言翻译项目 ====
+
+Typecho语言翻译项目的Github项目地址是：
+https://github.com/typecho/languages
+
+点击页面右上角的''Fork''按钮即可把该项目''Fork''到你自己的代码库中。这样可以保证多个开发计划互不干扰。
+</block>
 
 # 1. 使用翻译
 
